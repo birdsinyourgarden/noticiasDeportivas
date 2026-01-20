@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias Deportivas Femeninas</title>
+        <link>https://www.noticiasdeportivasfemeninas.com</link>
+        <description>Últimas noticias sobre deportes femeninos nacionales e internacionales.</description>
+
+        <item>
+            <title>La selección femenina de fútbol gana el torneo regional</title>
+            <link>https://www.noticiasdeportivasfemeninas.com/seleccion-femenina-gana</link>
+            <description>La selección femenina logra un triunfo histórico tras vencer en la final a su principal rival.</description>
+        </item>
+
+        <item>
+            <title>Tenis femenino: Emma Raducanu avanza a semifinales</title>
+            <link>https://www.noticiasdeportivasfemeninas.com/raducanu-semifinales</link>
+            <description>Emma Raducanu vence a su oponente en un intenso partido y se clasifica para las semifinales del torneo internacional.</description>
+        </item>
+
+        <item>
+            <title>Baloncesto femenino: resumen de la liga nacional</title>
+            <link>https://www.noticiasdeportivasfemeninas.com/baloncesto-femenino-resumen</link>
+            <description>Resultados destacados de la jornada de la liga femenina, con equipos sorprendiendo a sus rivales.</description>
+        </item>
+
+        <item>
+            <title>Maratón femenina: récords y participación récord</title>
+            <link>https://www.noticiasdeportivasfemeninas.com/maraton-femenina</link>
+            <description>La maratón anual femenina rompe récords de participación y marca nuevos tiempos en varias categorías.</description>
+        </item>
+
+    </channel>
+</rss>
